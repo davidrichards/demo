@@ -10,8 +10,8 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: GraphQL Client
-      url: graphql_client.html
+      title: GraphQL Utilities
+      url: graphql_utilities.html
     output: web
     title: demo
   output: web

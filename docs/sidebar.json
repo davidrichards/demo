@@ -1,6 +1,6 @@
 {
   "demo": {
     "Overview": "/",
-    "GraphQL Client": "graphql_client.html"
+    "GraphQL Utilities": "graphql_utilities.html"
   }
 }

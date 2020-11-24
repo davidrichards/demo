@@ -27,5 +27,5 @@ dist: clean
 
 clean:
 	nbdev_clean_nbs
-	nbdev_clean_nbs --fname experiments
+	nbdev_clean_nbs --fname examples
 	rm -rf dist
